@@ -1,1 +1,1 @@
-Projekat se odnosi na aplikaciju koja ce sluziti za porucivanje hrane. Aplikacija podrazumeva komunikaciju izmedju kupca i dostavljaca.
+Projekat se odnosi na aplikaciju koja ce sluziti za porucivanje hrane. Aplikacija podrazumeva komunikaciju izmedju kupca i dostavljaca. Rok za izradu je 18.09.2024.
